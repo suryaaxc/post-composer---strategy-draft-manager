@@ -1,0 +1,6 @@
+{
+  "name": "Post Composer & Strategy Draft Manager",
+  "description": "Multi-platform social post composer with real-time character limit validation using strategy patterns, draft management in localStorage, and mock API retry logic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
