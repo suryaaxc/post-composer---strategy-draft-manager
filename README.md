@@ -1,4 +1,4 @@
-# 🚀 Omnipost Studio — Post Composer & Strategy Draft Manager
+# 🚀 Post Composer & Strategy Draft Manager
 ### *Experiment 1: Platform Validation, Strategy Pattern & Resilient Draft Management*
 
 <p align="center">
